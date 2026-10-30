@@ -9,11 +9,14 @@ prioritize cases, and answer legal research questions with source-grounded AI.
 All AI-generated insights require lawyer verification before use.
 
 ## Status
+
 🚧 Under active development (college research project).
 
 ## Tech Stack
-- Frontend: React.js + Tailwind CSS
-- Backend: FastAPI (Python)
-- Database: MySQL
-- LLM: Google Gemini API
-- RAG: LangChain + FAISS + Sentence-Transformers
+
+* Frontend: React.js + Tailwind CSS
+* Backend: FastAPI (Python)
+* Database: MySQL
+* LLM: Google Gemini API
+* RAG: LangChain + FAISS + Sentence-Transformers
+
